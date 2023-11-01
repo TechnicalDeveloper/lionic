@@ -1,5 +1,5 @@
-Try it here:<a href="https://technicaldeveloper.github.io/Lionic/">Click to check out</a>
+Try it here:<a href="https://technicaldeveloper.github.io/Lionic/"> Click to check out</a>
 
 Верстка макета-"Lagoona" с использованием HTML и CSS
 
-![image](https://github.com/TechnicalDeveloper/Lionic/assets/95400630/9b25473b-c5ed-432b-9c47-3b827bb061db)
+![Screenshot 2023-11-02 021132](https://github.com/TechnicalDeveloper/Lionic/assets/95400630/2dbe9247-71d9-4342-91bf-0c06a602004b)
