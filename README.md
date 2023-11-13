@@ -1,4 +1,4 @@
-Try it here:<a href="https://technicaldeveloper.github.io/Lionic/"> Click to check out</a>
+Try it here:<a href="https://technicaldeveloper.github.io/lionic/"> Click to check out</a>
 
 Верстка макета-"Lagoona" с использованием HTML и CSS
 
